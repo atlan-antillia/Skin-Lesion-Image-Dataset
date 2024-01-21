@@ -64,6 +64,7 @@ folders contain the segmention png files corresponding to the images in *_Data f
 <h3>
 3. Create ImageMask Ddataset
 </h3>
+<h3>
 3.1 Create image and mask dataset
 </h3>
 By using Python script <a href="./generator/ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a>,
